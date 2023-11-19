@@ -5,3 +5,4 @@
 🎨 Colorful Creations: Discover visually stunning graphics with vibrant colors.<br>
 🕹️ Interactive Experiences: Engage with interactive projects, from games to simulations.<br>
 🌐 OpenGL Magic: Witness the power of OpenGL in transforming ideas into pixels.<br>
+
